@@ -1,4 +1,9 @@
-### [noise.rest](https://noise.rest)
+<a href="https://noise.rest">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OP5dev/brand-assets/main/svg/noise-rest-small-reversed.svg">
+    <img alt="noise rest" src="https://raw.githubusercontent.com/OP5dev/brand-assets/main/svg/noise-rest-small.svg" width="280">
+  </picture>
+</a>
 
 <!--
 **Here are some ideas to get you started:**
