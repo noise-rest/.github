@@ -1,7 +1,7 @@
 <a href="https://noise.rest">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noise-rest/brand-assets/main/svg/noise-rest-small-reversed.svg">
-    <img alt="noise rest" src="https://raw.githubusercontent.com/noise-rest/brand-assets/main/svg/noise-rest-small.svg" width="280">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noise-rest/brand-assets/main/svg/logo-reversed.svg">
+    <img alt="noise rest" src="https://raw.githubusercontent.com/noise-rest/brand-assets/main/svg/logo.svg" width="280">
   </picture>
 </a>
 
